@@ -1,0 +1,1 @@
+A mobile application developed using React Native to enhance transparency and efficiency in NGO donation management. The app connects donors, NGOs, field officers, and beneficiaries, enabling better tracking of donations, communication between stakeholders, and improved accountability in donation distribution workflows.
